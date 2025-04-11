@@ -1,2 +1,4 @@
 "# My First Git Project" 
-im jagrup talniya
+<br>
+<h1>Iamjagruptalniya</h1><br>
+<h2>Mandal Jodha</h2>
